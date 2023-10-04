@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CriadorEcosistema/1.0.0": {
+        "runtime": {
+          "CriadorEcosistema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriadorEcosistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

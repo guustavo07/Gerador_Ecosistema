@@ -1,0 +1,15 @@
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\bin\Debug\net6.0\CriadorEcosistema.exe
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\bin\Debug\net6.0\CriadorEcosistema.deps.json
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\bin\Debug\net6.0\CriadorEcosistema.runtimeconfig.json
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\bin\Debug\net6.0\CriadorEcosistema.dll
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\bin\Debug\net6.0\CriadorEcosistema.pdb
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.csproj.AssemblyReference.cache
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.AssemblyInfoInputs.cache
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.AssemblyInfo.cs
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.csproj.CoreCompileInputs.cache
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.dll
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\refint\CriadorEcosistema.dll
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.pdb
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\CriadorEcosistema.genruntimeconfig.cache
+C:\Users\Meta3\Downloads\Projeto01\CriadorEcosistema\CriadorEcosistema\obj\Debug\net6.0\ref\CriadorEcosistema.dll
